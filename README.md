@@ -1,4 +1,6 @@
-**7-Segment Truth Table:**  
+<img width="1920" height="1080" alt="Lab-6 GIF" src="https://github.com/LogEman/VHDL-Lab6/blob/main/images/lab6-gif.gif?raw=true"/>
+
+**7-Segment Truth Table:**
 | Output | sw0 | sw1 | sw2 | sw3 | g | f | e | d | c | b | a | Match |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | **0** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | X |
